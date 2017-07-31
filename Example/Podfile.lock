@@ -1,0 +1,16 @@
+PODS:
+  - ZGButton (0.1.0)
+
+DEPENDENCIES:
+  - ZGButton (from `../`)
+
+EXTERNAL SOURCES:
+  ZGButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZGButton: fcff1f79ea980e7ec455706456f6d13b9410bb41
+
+PODFILE CHECKSUM: ecf485af512de90e921b5fc061ea62fa3bfb85c7
+
+COCOAPODS: 1.2.0

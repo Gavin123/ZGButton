@@ -1,0 +1,6 @@
+framework module Pods_ZGButton_Tests {
+  umbrella header "Pods-ZGButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

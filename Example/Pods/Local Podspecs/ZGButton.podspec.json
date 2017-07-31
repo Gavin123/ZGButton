@@ -1,0 +1,22 @@
+{
+  "name": "ZGButton",
+  "version": "0.1.0",
+  "summary": "A short description of ZGButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Gavin123/ZGButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "周光": "457076781@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Gavin123/ZGButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZGButton/Classes/**/*"
+}
